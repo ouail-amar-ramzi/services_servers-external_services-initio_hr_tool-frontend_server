@@ -1,0 +1,86 @@
+{
+    "upcomingEvents": [
+        {
+            "title": "Mental health is health",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/mental-health-is-health.svg"
+        },
+        {
+            "title": "Hopink",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/hopink.svg"
+        },
+        {
+            "title": "Echecs Et Med",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/echecs-et-med.svg"
+        },
+        {
+            "title": "Culture Day",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/culture-day.svg"
+        },
+        {
+            "title": "Mental health is health",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/mental-health-is-health.svg"
+        },
+        {
+            "title": "Hopink",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/hopink.svg"
+        },
+        {
+            "title": "Echecs Et Med",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/echecs-et-med.svg"
+        },
+        {
+            "title": "Culture Day",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/culture-day.svg"
+        }
+    ],
+    "previousEvents": [
+        {
+            "title": "Mental health is health",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/mental-health-is-health.svg"
+        },
+        {
+            "title": "Hopink",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/hopink.svg"
+        },
+        {
+            "title": "Echecs Et Med",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/echecs-et-med.svg"
+        },
+        {
+            "title": "Culture Day",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/culture-day.svg"
+        },
+        {
+            "title": "Mental health is health",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/mental-health-is-health.svg"
+        },
+        {
+            "title": "Hopink",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/hopink.svg"
+        },
+        {
+            "title": "Echecs Et Med",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/echecs-et-med.svg"
+        },
+        {
+            "title": "Culture Day",
+            "description": "Lorem ipsum",
+            "imageSrc": "/src/assets/events/culture-day.svg"
+        }
+    ]
+}
