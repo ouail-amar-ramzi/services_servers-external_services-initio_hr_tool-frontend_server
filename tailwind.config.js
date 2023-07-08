@@ -24,6 +24,9 @@ export default {
         'gradient-green-black' : 'linear-gradient(177deg, #06232A 0%, #0E5465 100%)',
         'gradient-177': 'linear-gradient(177deg, var(--tw-gradient-stops))',
         'gradient-150': 'linear-gradient(150deg, var(--tw-gradient-stops))',
+      },
+      boxShadow: {
+        'button': '0px 7px 10px 0px rgba(6, 35, 42, 0.15)'
       }
     },
     screens: {

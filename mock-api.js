@@ -8,6 +8,7 @@ const api = axios.create({
 
 export const mock = new MockAdapter(api);
 
+//try to 'require' the events from the json file
 const events = {
     "upcomingEvents": [
         {
